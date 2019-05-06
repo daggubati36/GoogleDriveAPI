@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Vamsi
+Build-Jdk: 12.0.1
+Implementation-Title: GDriveAPI
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.gdrive
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/GDriveAPI
+Created-By: Maven Integration for Eclipse
+
